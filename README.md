@@ -1,5 +1,12 @@
 # Evaluation Rubric Library
 
+<p>
+  <img src="https://img.shields.io/badge/Markdown-Docs-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
+  <img src="https://img.shields.io/badge/Rubric-Design-1F4E78?style=flat-square" alt="Rubric Design" />
+  <img src="https://img.shields.io/badge/Task%20types-4-2E75B6?style=flat-square" alt="Task types" />
+  <img src="https://img.shields.io/badge/License-MIT-green?style=flat-square" alt="License MIT" />
+</p>
+
 A working library of **evaluation rubrics** for grading the outputs of large language models (LLMs), plus short guides on how to write rubrics that a human or an LLM judge can apply consistently.
 
 I built this because rubric design is the part of AI-training and model-evaluation work I do most often, and I wanted one clean, reusable reference for it. A rubric is just a checklist of clear, testable criteria that define what a correct, high-quality response looks like. Good rubrics are what make model evaluation *objective* instead of a matter of opinion - which is really a form of quality assurance.
