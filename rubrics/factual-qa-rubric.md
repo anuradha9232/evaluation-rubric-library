@@ -45,5 +45,5 @@ A finance-domain question set. Each question has one verifiable answer. The exam
 
 ## Notes
 
-- Notice that P4/P5 and N1/N2 look related but are **not** exact opposites — the negatives capture the specific, common *swap* (intra ↔ inter), which is a real failure mode, rather than a lazy "not CGST" negation.
-- For a closed question, never write "Includes the correct slabs" — always name them, so the judge doesn't need the answer key.
+- Notice that P4/P5 and N1/N2 look related but are **not** exact opposites - the negatives capture the specific, common *swap* (intra vs inter), which is a real failure mode, rather than a lazy "not CGST" negation.
+- For a closed question, never write "Includes the correct slabs" - always name them, so the judge doesn't need the answer key.

@@ -21,13 +21,13 @@ Copy this file and fill it in for your own prompt. Delete the notes in *italics*
 
 ## Positive criteria
 
-*What a correct answer must contain. Weights 1–40. Highest weights on accuracy of results.*
+*What a correct answer must contain. Weights 1-40. Highest weights on accuracy of results.*
 
 | # | Weight | Criterion | Category |
 |---|--------|-----------|----------|
-| P1 | +__ | States that … | Accuracy |
-| P2 | +__ | Includes a … | Instruction-following |
-| P3 | +__ | Reports … | Accuracy |
+| P1 | +__ | States that ... | Accuracy |
+| P2 | +__ | Includes a ... | Instruction-following |
+| P3 | +__ | Reports ... | Accuracy |
 
 ## Negative criteria
 
@@ -35,8 +35,8 @@ Copy this file and fill it in for your own prompt. Delete the notes in *italics*
 
 | # | Weight | Criterion | Category |
 |---|--------|-----------|----------|
-| N1 | -__ | Reports … (a known wrong value) | Accuracy |
-| N2 | -__ | Claims … (a common over-interpretation) | Reasoning |
+| N1 | -__ | Reports ... (a known wrong value) | Accuracy |
+| N2 | -__ | Claims ... (a common over-interpretation) | Reasoning |
 
 ---
 

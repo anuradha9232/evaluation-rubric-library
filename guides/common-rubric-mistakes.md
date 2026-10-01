@@ -4,7 +4,7 @@ These are the errors I check for before submitting any rubric. Each one quietly 
 
 ## 1. Wrong wording (not present tense)
 
-Criteria must start in the simple present tense: *States that…, Includes a…, Provides a…, Reports…*.
+Criteria must start in the simple present tense: *States that..., Includes a..., Provides a..., Reports...*.
 
 - Wrong: *"The response must calculate the p-value of p = 0.0001."*
 - Right: *"Calculates a p-value of p = 0.0001 for the correlation."*
@@ -15,14 +15,14 @@ The customer wants the answer, not a description of the steps.
 
 - Wrong: *"Identifies the `sale_date` column as the one to filter on."*
 - Wrong: *"Uses groupby to aggregate the data."*
-- Right: *"Reports total Q3 revenue as ₹18,40,000."*
+- Right: *"Reports total Q3 revenue as Rs 18,40,000."*
 
 ## 3. Criteria that aren't specific enough
 
 A vague criterion can be scored two different ways by two different judges.
 
 - Wrong: *"Calculates the statistics for every category."*
-- Right: *"Calculates the mean revenue for the Electronics category as ₹1,94,900."*
+- Right: *"Calculates the mean revenue for the Electronics category as Rs 1,94,900."*
 
 ## 4. Combined (non-atomic) criteria
 
@@ -48,11 +48,11 @@ Even open-ended criteria need concrete examples of what counts as passing.
 
 ## 7. Missing essential criteria
 
-If the prompt asks for "two different scripts" and the rubric never checks that two were provided, the rubric is incomplete — a wrong response could still pass.
+If the prompt asks for "two different scripts" and the rubric never checks that two were provided, the rubric is incomplete - a wrong response could still pass.
 
 ## 8. Repetitive / overlapping criteria
 
-Two criteria testing the same thing double-penalise the same mistake. Keep one, delete the other. This also applies to a positive criterion and its exact negative opposite — don't include both.
+Two criteria testing the same thing double-penalise the same mistake. Keep one, delete the other. This also applies to a positive criterion and its exact negative opposite - don't include both.
 
 - Redundant pair: *"[+5] States the best player is Messi"* and *"[-5] States the best player is not Messi."*
 
@@ -75,7 +75,7 @@ Don't invent requirements the prompt never stated.
 - **Overfitting:** a criterion so specific it would reject a valid alternative answer.
 - **Underfitting:** a criterion so broad it would pass an incorrect answer.
 
-Criteria may name a specific answer as an *example* ("such as…", "e.g., …") without forcing only that one answer.
+Criteria may name a specific answer as an *example* ("such as...", "e.g., ...") without forcing only that one answer.
 
 ## 12. Poor spelling and grammar
 
